@@ -1,0 +1,4 @@
+@layer tailwind-base, primereact, tailwind-utilities;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
