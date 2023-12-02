@@ -13,8 +13,7 @@ function TaskCard({ task }) {
        onClick={() => deleteTask(task.id)}>
         Eliminar
       </button>      
-    </div>
-    
+    </div>    
   );
 }
 export default TaskCard;
